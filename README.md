@@ -5,7 +5,7 @@ This is an AI-powered data interaction app built with Streamlit that allows user
 ## Requirements
 
 Python 3.8+
-Required libraries (see requirements.txt):
+Required libraries :
 streamlit
 pandas
 transformers
